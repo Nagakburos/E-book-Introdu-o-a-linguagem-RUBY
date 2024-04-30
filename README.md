@@ -1,6 +1,6 @@
-# Introdução à Linguagem Ruby
-
-
+<p align="center">
+  <img src="assets/Capa.png" alt="Capa do Ebook">
+</p>
 
 
 Bem-vindo ao projeto "Introdução à Linguagem Ruby"! Este é um recurso educacional dedicado a ajudar você a aprender e dominar a linguagem de programação Ruby, com uma pitada de inspiração da saga "Senhor dos Anéis".
