@@ -34,4 +34,7 @@ Este projeto é possível graças à contribuição de diversos membros da comun
 
 Divirta-se explorando o mundo da programação Ruby e que a jornada seja tão emocionante quanto uma aventura épica em "Senhor dos Anéis"!
 
+link do projeto no canva:
+https://www.canva.com/design/DAGD1K1ULCI/mXBNXLvgx7tRktk1qUh1Nw/edit?utm_content=DAGD1K1ULCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **"Nagakburos"**
